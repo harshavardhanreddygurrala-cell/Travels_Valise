@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bmcholidays.in	TRUE	/	FALSE	1999999999	change_currencyds	eNortjKwilGKUbIGAAx3Ak8%3D
+
